@@ -1,7 +1,7 @@
 HILO GAME
 
 This is a hilo game in which user gets a number and he writes his expectation whether the next coming number number is higher or lower in value.
-User also can put his bet on his choice which has a maximum of.
+User also can put his bet on his choice which has a maximum of 100.
 A maximum number of 5 wrong trials are possible.
 
 Contributors to the project
