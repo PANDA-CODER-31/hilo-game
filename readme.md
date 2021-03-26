@@ -6,3 +6,5 @@ A maximum number of 5 wrong trials are possible.
 
 Contributors to the project
 1. Krishna Agarwal (https://github.com/krishna2332002)
+2. Pritish Kumar (https://github.com/pritishkr)
+3. Aditya Singh (https://github.com/PANDA-CODER-31)
